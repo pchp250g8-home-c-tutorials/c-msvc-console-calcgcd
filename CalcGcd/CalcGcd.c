@@ -26,7 +26,7 @@ int main()
                 iVal2 -= iVal1;
         }
         nGcd = iVal1;
-        printf("The Gcd of the numbers %d and %d is %d\r\n", iVal1, iVal2, nGcd);
+        printf("The Gcd of the numbers %d and %d is %d\r\n", iNum1, iNum2, nGcd);
     }
     else
     {

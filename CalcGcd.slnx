@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CalcGcd/CalcGcd.vcxproj" />
+  <Project Path="CalcGcd/CalcGcd.vcxproj" Id="854127e4-3ddc-48b3-b944-f53c418e1294" />
 </Solution>
